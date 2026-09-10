@@ -1,0 +1,171 @@
+
+SQLite format 3@  
+.v�
+11��L�wtablesalessalesCREATE TABLE "sales" (
+"order_id" TEXT,
+  "date" TEXT,
+  "salesperson" TEXT,
+  "region" TEXT,
+  "product" TEXT,
+  "units_sold" INTEGER,
+  "unit_price" INTEGER,
+  "revenue" INTEGER
+)�
+�������	�^��V��N�
+E
+E���U��s:
+�
+�
+X
+��t9��W
+�
+�
+t
+=
+	�	�	W	��t<��V��q9���R��o6���V��s:��V��7E	!!ORD10682023-04-13Aman VermaSouthProduct A�W�6D	!!ORD10672023-12-26Ravi KumarWestProduct A�@8C	!%ORD10662023-04-02Priya SharmaEastProduct A�U�8B	!%ORD10652023-03-21Priya SharmaWestProduct A�@6A	!!ORD10642023-04-18Aman VermaWestProduct C��7@	!!ORD10632023-03-07Aman VermaNorthProduct B��7?	!!ORD10622023-03-18Aman VermaSouthProduct B�#(7>	!!ORD10612023-12-28Ravi KumarNorthProduct C�X8=	!%ORD10602023-06-20Priya SharmaWestProduct C�L7<	!!ORD10592023-01-27Aman VermaNorthProduct A�p5;	!ORD10582023-06-25Rohit DasWestProduct B�)7:	!!ORD10572023-10-11Aman VermaSouthProduct C�L79	!!ORD10562023-02-23Ravi KumarNorthProduct C�L58	!ORD10552023-12-01Rohit DasEastProduct C�!457	!ORD10542023-05-26Rohit DasEastProduct C�.�76	!!ORD10532023-05-16Ravi KumarSouthProduct B�L75	!!ORD10522023-08-23Ravi KumarSouthProduct C�'74	!!ORD10512023-11-27Aman VermaNorthProduct A
+�N 73	!!ORD10502023-06-10Sneha IyerSouthProduct C�.�72	!!ORD10492023-12-03Aman VermaSouthProduct C�oT61	!ORD10482023-10-19Rohit DasNorthProduct B��80	!%ORD10472023-02-05Priya SharmaWestProduct A�'7/	!!ORD10462023-10-27Ravi KumarNorthProduct A�>�7.	!!ORD10452023-04-22Aman VermaNorthProduct A��9-	!%ORD10442023-05-27Priya SharmaSouthProduct B�m`6,	!!ORD10432023-03-26Sneha IyerEastProduct B
+�d8+	!%ORD10422023-07-28Priya SharmaWestProduct A�}7*	!!ORD10412023-11-30Ravi KumarSouthProduct A�#(6)	!ORD10402023-05-08Rohit DasNorthProduct A�p8(	!%ORD10392023-08-18Priya SharmaEastProduct B�'9'	!%ORD10382023-06-23Priya SharmaSouthProduct C��7&	!!ORD10372023-07-30Ravi KumarNorthProduct B�L6%	!!ORD10362023-04-08Sneha IyerEastProduct B��8$	!%ORD10352023-10-04Priya SharmaWestProduct B�'6#	!!ORD10342023-02-06Aman VermaWestProduct A�Bh7"	!!ORD10332023-11-20Ravi KumarNorthProduct B��7!	!!ORD10322023-10-11Ravi KumarNorthProduct C�@7 	!!ORD10312023-05-07Aman VermaNorthProduct C��6	!!ORD10302023-06-09Sneha IyerWestProduct A
+�L,:	!%ORD10292023-09-28Priya SharmaSouthProduct C��@7	!!ORD10282023-09-30Sneha IyerSouthProduct B��6	!!ORD10272023-05-04Ravi KumarWestProduct A�%7	!!ORD10262023-01-10Aman VermaSouthProduct A�p5	!ORD10252023-10-04Rohit DasEastProduct B�!48	!%ORD10242023-06-02Priya SharmaEastProduct A�Bh6	!ORD10232023-01-02Rohit DasNorthProduct C	�#(7	!!ORD10222023-06-24Sneha IyerSouthProduct B�p6	!!ORD10212023-05-09Ravi KumarEastProduct C�#(5	!ORD10202023-02-02Rohit DasWestProduct C
+�e�8	!%ORD10192023-01-25Priya SharmaWestProduct C��8	!%ORD10182023-07-24Priya SharmaWestProduct A�.�5	!ORD10172023-10-15Rohit DasWestProduct C�ix9	!%ORD10162023-08-23Priya SharmaSouthProduct C�L6	!!ORD10152023-10-18Sneha IyerWestProduct C�*�7	!!ORD10142023-01-17Aman VermaNorthProduct A�U�7	!!ORD10132023-05-19Aman VermaNorthProduct A�FP8
+	!%ORD10122023-11-22Priya SharmaWestProduct B�p7	!!ORD10112023-07-09Aman VermaNorthProduct C�.�6	!!ORD10102023-02-21Sneha IyerEastProduct A
+�L,7
+	!!ORD10092023-02-05Aman VermaNorthProduct A��6		!ORD10082023-05-31Rohit DasSouthProduct C�u07	!!ORD10072023-08-24Sneha IyerNorthProduct C�#(5	!ORD10062023-02-19Rohit DasEastProduct A�FP7	!!ORD10052023-03-21Ravi KumarNorthProduct B�)5	!!	ORD10042023-05-23Sneha IyerEastProduct B��9	!%ORD10032023-04-12Priya SharmaWestProduct C���9	!%ORD10022023-01-16Priya SharmaNorthProduct C��5	!ORD10012023-03-13Rohit DasWestProduct A��7	!!ORD10002023-11-24Aman VermaSouthProduct A��
+E���Z!��yA
+�
+�
+`
+)��~F��c*
+�
+�
+�
+G
+	�	�	g	.���L��g-���O��n4���Q��m4���M��f,��9�
+	!%ORD11372023-05-03Priya SharmaNorthProduct B��7�		!!ORD11362023-02-20Aman VermaNorthProduct A�X7�	!!ORD11352023-08-15Aman VermaNorthProduct C
+�N 5�	!ORD11342023-11-02Rohit DasWestProduct B�N 6�	!!ORD11332023-06-05Ravi KumarWestProduct C��9�	!%ORD11322023-09-09Priya SharmaSouthProduct C��7�	!!ORD11312023-01-27Ravi KumarNorthProduct B	�FP6�	!!ORD11302023-05-26Sneha IyerEastProduct A�}7�	!!ORD11292023-05-30Ravi KumarNorthProduct C�'7�	!!ORD11282023-10-01Ravi KumarNorthProduct C�L7�	!!ORD11272023-04-27Aman VermaNorthProduct C�.�7	!!ORD11262023-10-29Ravi KumarSouthProduct B�c�8~	!%ORD11252023-10-02Priya SharmaWestProduct B�p8}	!%ORD11242023-05-09Priya SharmaEastProduct A��6|	!!ORD11232023-10-09Sneha IyerEastProduct B�@t6{	!!ORD11222023-05-05Sneha IyerEastProduct B
+�:�8z	!%ORD11212023-01-09Priya SharmaWestProduct C��6y	!!ORD11202023-07-28Sneha IyerWestProduct B�>�7x	!!ORD11192023-01-06Ravi KumarSouthProduct C�Bh6w	!!ORD11182023-07-01Aman VermaEastProduct C	�4�8v	!%ORD11172023-01-15Priya SharmaWestProduct A�]�6u	!!ORD11162023-05-23Sneha IyerWestProduct B�:�7t	!!ORD11152023-08-12Aman VermaSouthProduct A�oT5s	!ORD11142023-04-01Rohit DasWestProduct B�c�7r	!!ORD11132023-02-24Sneha IyerSouthProduct B�R6q	!!ORD11122023-07-09Ravi KumarWestProduct B��6p	!!ORD11112023-11-04Aman VermaWestProduct C��6o	!!ORD11102023-04-12Ravi KumarEastProduct C��4n	!	ORD11092023-10-24Rohit DasWestProduct B��8m	!%ORD11082023-03-27Priya SharmaEastProduct A�'6l	!!ORD11072023-02-28Sneha IyerEastProduct B�J88k	!%ORD11062023-11-15Priya SharmaWestProduct C��9j	!%ORD11052023-02-05Priya SharmaSouthProduct A��6i	!!	ORD11042023-08-29Aman VermaSouthProduct C��6h	!!ORD11032023-06-22Sneha IyerEastProduct A
+�L,8g	!%ORD11022023-05-14Priya SharmaWestProduct B
+�L,7f	!!ORD11012023-11-26Sneha IyerSouthProduct A�6�5e	!	ORD11002023-10-01Rohit DasNorthProduct A��7d	!!ORD10992023-12-14Sneha IyerSouthProduct C
+�2�6c	!!ORD10982023-08-12Sneha IyerEastProduct C�@7b	!!ORD10972023-10-07Sneha IyerSouthProduct B�N 6a	!!ORD10962023-01-04Sneha IyerWestProduct C�FP5`	!ORD10952023-07-19Rohit DasWestProduct B�%7_	!!ORD10942023-10-05Ravi KumarSouthProduct B�u06^	!!ORD10932023-03-20Sneha IyerWestProduct B�
+�8]	!%ORD10922023-02-11Priya SharmaWestProduct C��6\	!!ORD10912023-05-27Aman VermaEastProduct C�.�7[	!!ORD10902023-09-06Sneha IyerNorthProduct C�.�8Z	!%ORD10892023-09-01Priya SharmaEastProduct C�W�6Y	!ORD10882023-11-10Rohit DasWestProduct A���5X	!ORD10872023-08-22Rohit DasEastProduct B�'8W	!!ORD10862023-04-01Ravi KumarSouthProduct A���6V	!!ORD10852023-05-05Ravi KumarWestProduct A�	�6U	!!ORD10842023-08-01Sneha IyerWestProduct B�J86T	!ORD10832023-01-24Rohit DasNorthProduct B�>�9S	!%ORD10822023-05-01Priya SharmaSouthProduct A
+�'5R	!ORD10812023-03-28Rohit DasEastProduct A��5Q	!ORD10802023-08-15Rohit DasWestProduct C�:�5P	!ORD10792023-05-27Rohit DasEastProduct B�6�7O	!!ORD10782023-07-14Sneha IyerNorthProduct B�#(8N	!%ORD10772023-12-23Priya SharmaWestProduct C
+�'6M	!!ORD10762023-03-05Sneha IyerEastProduct B
+�:�5L	!ORD10752023-08-09Rohit DasEastProduct C��6K	!ORD10742023-01-23Rohit DasSouthProduct B�X7J	!!ORD10732023-11-07Sneha IyerSouthProduct B�!47I	!!ORD10722023-02-25Aman VermaEastProduct B��@5H	!ORD10712023-03-01Rohit DasEastProduct A	�#(5G	!ORD10702023-05-23Rohit DasEastProduct A�]�6F	!!ORD10692023-01-13Aman VermaEastProduct A�6�
+D���Q��i.
+�
+�
+
+F
+
+��`'��|C	
+�
+�
+^
+$	�	�	v	;	��W��o5���O��h.���G��c*��~F
+��c)��9�N	!%ORD12052023-03-16Priya SharmaNorthProduct C�L9�M	!%ORD12042023-04-21Priya SharmaNorthProduct B�.�7�L	!!ORD12032023-03-06Ravi KumarSouthProduct C�J86�K	!!ORD12022023-12-06Ravi KumarEastProduct A�
+�6�J	!!ORD12012023-07-23Ravi KumarWestProduct A	�#(5�I	!ORD12002023-07-05Rohit DasEastProduct A�p6�H	!!ORD11992023-01-17Sneha IyerWestProduct A�.�5�G	!ORD11982023-12-02Rohit DasWestProduct B�@7�F	!ORD11972023-12-10Rohit DasSouthProduct B���6�E	!!ORD11962023-02-19Sneha IyerWestProduct B�@6�D	!!ORD11952023-03-13Aman VermaWestProduct A��6�C	!!ORD11942023-04-24Aman VermaWestProduct A�p5�B	!ORD11932023-04-30Rohit DasEastProduct C�@7�A	!!ORD11922023-12-11Aman VermaNorthProduct C	�FP6�@	!!ORD11912023-05-16Sneha IyerEastProduct C�#(6�?	!!ORD11902023-12-13Ravi KumarWestProduct A
+�L,7�>	!!ORD11892023-06-23Ravi KumarSouthProduct A�@6�=	!!ORD11882023-09-14Aman VermaWestProduct B	�#(8�<	!%ORD11872023-08-01Priya SharmaEastProduct C�p6�;	!!ORD11862023-07-06Aman VermaEastProduct C�	�7�:	!!ORD11852023-11-27Sneha IyerNorthProduct C��9�9	!%ORD11842023-11-22Priya SharmaNorthProduct C�)5�8	!ORD11832023-09-12Rohit DasEastProduct A
+�'6�7	!ORD11822023-07-22Rohit DasNorthProduct C	��7�6	!!ORD11812023-10-20Aman VermaNorthProduct C�FP7�5	!!ORD11802023-04-12Ravi KumarSouthProduct B
+�e�6�4	!!ORD11792023-10-28Aman VermaWestProduct B
+�N 6�3	!!ORD11782023-05-28Ravi KumarWestProduct B�FP7�2	!!ORD11772023-08-25Aman VermaNorthProduct B	�FP7�1	!!ORD11762023-07-15Sneha IyerSouthProduct A�N 9�0	!%ORD11752023-12-16Priya SharmaNorthProduct C�p5�/	!ORD11742023-08-09Rohit DasWestProduct C��6�.	!!ORD11732023-01-24Aman VermaEastProduct B�|8�-	!%ORD11722023-11-21Priya SharmaEastProduct A�@6�,	!!ORD11712023-11-20Ravi KumarWestProduct A
+�'6�+	!ORD11702023-11-17Rohit DasNorthProduct A�@6�*	!!ORD11692023-12-21Aman VermaWestProduct B
+�d6�)	!!ORD11682023-03-21Aman VermaEastProduct C�p8�(	!%ORD11672023-09-27Priya SharmaWestProduct C�L6�'	!!ORD11662023-01-19Ravi KumarWestProduct A�L7�&	!!ORD11652023-06-12Sneha IyerSouthProduct B�}8�%	!%ORD11642023-12-24Priya SharmaWestProduct A�>�7�$	!!ORD11632023-06-20Sneha IyerEastProduct A���6�#	!!ORD11622023-10-24Sneha IyerWestProduct B�>�6�"	!!ORD11612023-09-17Aman VermaEastProduct C	��6�!	!!ORD11602023-09-18Aman VermaWestProduct B�	�7� 	!!ORD11592023-05-05Sneha IyerSouthProduct C�:�6�	!!ORD11582023-05-30Sneha IyerWestProduct B�c�7�	!!ORD11572023-04-26Ravi KumarSouthProduct B�@5�	!ORD11562023-03-23Rohit DasWestProduct A
+��6�	!ORD11552023-09-06Rohit DasSouthProduct C��6�	!!ORD11542023-05-17Aman VermaWestProduct C�FP7�	!!ORD11532023-09-23Sneha IyerNorthProduct A�]�6�	!!	ORD11522023-09-21Sneha IyerNorthProduct A��7�	!!ORD11512023-02-15Aman VermaNorthProduct B�@t6�	!ORD11502023-09-11Rohit DasNorthProduct B
+�N 6�	!!ORD11492023-06-14Aman VermaWestProduct C��6�	!!ORD11482023-09-09Aman VermaWestProduct B�p8�	!%ORD11472023-11-30Priya SharmaWestProduct C�W�8�	!%ORD11462023-05-18Priya SharmaWestProduct C�%8�	!%	ORD11452023-05-09Priya SharmaNorthProduct C��6�	!!ORD11442023-02-11Sneha IyerEastProduct C�'6�	!!ORD11432023-12-19Aman VermaWestProduct B
+�N 7�	!!ORD11422023-03-26Sneha IyerNorthProduct B
+�:�9�	!%ORD11412023-04-26Priya SharmaNorthProduct A�L7�
+	!!ORD11402023-11-17Sneha IyerNorthProduct C�J87�	!!ORD11392023-05-28Ravi KumarSouthProduct B
+�N 8�	!!ORD11382023-08-19Aman VermaNorthProduct A��@
+D���T��m4
+�
+�
+�
+N
+��f+���G
+�
+�
+a
+(	�	�	{	B	��Z ��q8���S��l4���O��i-���F
+��\ ��7�	!!ORD12732023-02-22Aman VermaNorthProduct A�!46�	!!ORD12722023-03-12Sneha IyerEastProduct C	��9�	!%ORD12712023-05-25Priya SharmaSouthProduct C
+�e�5�	!ORD12702023-08-29Rohit DasWestProduct B�)9�	!%ORD12692023-11-09Priya SharmaSouthProduct B
+�N 7�
+	!!ORD12682023-08-13Aman VermaSouthProduct B��9�	!%ORD12672023-07-12Priya SharmaSouthProduct C��7�	!!ORD12662023-10-04Aman VermaSouthProduct C�!47�
+	!!ORD12652023-03-12Aman VermaNorthProduct C�	�7�		!!ORD12642023-04-03Sneha IyerSouthProduct A�)6�	!!ORD12632023-12-10Ravi KumarEastProduct B�R9�	!%ORD12622023-10-14Priya SharmaNorthProduct C
+�L,6�	!ORD12612023-12-24Rohit DasNorthProduct B
+�2�6�	!!ORD12602023-02-11Aman VermaEastProduct C�J87�	!!ORD12592023-12-14Aman VermaSouthProduct B
+�L,7�	!!ORD12582023-11-28Aman VermaNorthProduct C�|6�	!ORD12572023-07-18Rohit DasNorthProduct C�R6�	!!ORD12562023-08-13Aman VermaEastProduct B�:�7�	!!ORD12552023-02-13Ravi KumarSouthProduct C�Bh6�	!!ORD12542023-03-19Ravi KumarEastProduct C��5�~	!ORD12532023-10-20Rohit DasWestProduct C�)8�}	!!ORD12522023-11-01Sneha IyerNorthProduct B���7�|	!!ORD12512023-01-30Ravi KumarNorthProduct C�FP6�{	!!ORD12502023-09-17Sneha IyerWestProduct A��6�z	!ORD12492023-11-20Rohit DasNorthProduct B
+�:�6�y	!!ORD12482023-06-11Ravi KumarWestProduct B�'5�x	!ORD12472023-09-10Rohit DasEastProduct C�u07�w	!!ORD12462023-04-12Ravi KumarSouthProduct C�p7�v	!!ORD12452023-11-27Ravi KumarSouthProduct B��6�u	!!ORD12442023-11-21Aman VermaEastProduct C��9�t	!%ORD12432023-06-23Priya SharmaNorthProduct C�.�6�s	!!ORD12422023-10-29Sneha IyerEastProduct C
+�d7�r	!!ORD12412023-07-05Ravi KumarSouthProduct B�p7�q	!%	ORD12402023-07-27Priya SharmaWestProduct C��6�p	!!ORD12392023-10-22Sneha IyerEastProduct A�m`7�o	!!ORD12382023-01-22Sneha IyerNorthProduct B�X6�n	!!ORD12372023-09-30Ravi KumarWestProduct C�.�9�m	!%ORD12362023-01-04Priya SharmaSouthProduct B�}6�l	!!ORD12352023-04-19Aman VermaEastProduct A�L7�k	!!ORD12342023-04-23Ravi KumarSouthProduct B
+�d6�j	!ORD12332023-12-14Rohit DasEastProduct A��p7�i	!!ORD12322023-09-20Sneha IyerNorthProduct B�p6�h	!!ORD12312023-08-06Sneha IyerEastProduct A�}6�g	!!ORD12302023-11-13Aman VermaWestProduct C��7�f	!!ORD12292023-06-16Ravi KumarSouthProduct A�%8�e	!%ORD12282023-08-03Priya SharmaEastProduct B�W�5�d	!	ORD12272023-11-21Rohit DasSouthProduct B��7�c	!!ORD12262023-04-03Ravi KumarSouthProduct C�'6�b	!!ORD12252023-04-03Aman VermaEastProduct A	�4�5�a	!ORD12242023-04-26Rohit DasEastProduct A�X6�`	!!ORD12232023-02-25Ravi KumarEastProduct C�FP8�_	!%ORD12222023-02-23Priya SharmaWestProduct A�J86�^	!!ORD12212023-12-07Aman VermaEastProduct B�X6�]	!!ORD12202023-10-15Ravi KumarWestProduct B�ix9�\	!%ORD12192023-08-10Priya SharmaNorthProduct C�p7�[	!!ORD12182023-03-20Ravi KumarNorthProduct A�@6�Z	!!ORD12172023-02-18Aman VermaEastProduct B�U�6�Y	!!ORD12162023-07-31Sneha IyerWestProduct C�U�6�X	!!ORD12152023-11-30Sneha IyerWestProduct A�FP8�W	!!ORD12142023-09-16Ravi KumarNorthProduct C��@6�V	!!ORD12132023-03-06Sneha IyerEastProduct B	�4�7�U	!!ORD12122023-08-16Aman VermaSouthProduct A��6�T	!!ORD12112023-09-03Ravi KumarWestProduct C
+�e�7�S	!!ORD12102023-01-23Sneha IyerNorthProduct A�c�7�R	!!ORD12092023-07-05Sneha IyerSouthProduct C�!46�Q	!!ORD12082023-08-04Ravi KumarWestProduct B�!46�P	!!	ORD12072023-06-15Aman VermaNorthProduct A��7�O	!!ORD12062023-01-14Aman VermaSouthProduct C�	�
+D���R��m2
+�
+�
+�
+J
+��b(��|C
+ 
+�
+�
+^
+$	�	�	u	;	��V��o5���O��g.���J��b&��u8���T��9�V	!%ORD13412023-07-11Priya SharmaSouthProduct C�@t9�U	!%ORD13402023-05-24Priya SharmaNorthProduct B�'6�T	!!ORD13392023-10-11Sneha IyerWestProduct C
+��6�S	!ORD13382023-01-24Rohit DasSouthProduct B
+�d6�R	!!ORD13372023-08-09Aman VermaWestProduct B�L6�Q	!ORD13362023-12-01Rohit DasNorthProduct A�]�6�P	!!ORD13352023-06-30Aman VermaWestProduct C��:�O	!%ORD13342023-07-21Priya SharmaSouthProduct C���7�N	!!ORD13332023-08-28Sneha IyerNorthProduct A�]�8�M	!%ORD13322023-10-23Priya SharmaWestProduct C�*�9�L	!%ORD13312023-05-29Priya SharmaSouthProduct B
+�e�9�K	!%ORD13302023-05-17Priya SharmaNorthProduct A�:�8�J	!%ORD13292023-10-15Priya SharmaWestProduct A�p8�I	!%ORD13282023-06-13Priya SharmaEastProduct C�]�6�H	!ORD13272023-08-26Rohit DasSouthProduct B�)6�G	!!ORD13262023-02-07Sneha IyerWestProduct B��6�F	!!ORD13252023-06-04Sneha IyerEastProduct B�>�4�E	!	ORD13242023-11-24Rohit DasEastProduct C��8�D	!%ORD13232023-02-11Priya SharmaWestProduct C��6�C	!ORD13222023-12-04Rohit DasNorthProduct A�u06�B	!ORD13212023-10-01Rohit DasSouthProduct A��8�A	!%ORD13202023-05-09Priya SharmaEastProduct C�)5�@	!ORD13192023-06-15Rohit DasEastProduct A�.�7�?	!!ORD13182023-01-29Aman VermaSouthProduct A��8�>	!%ORD13172023-10-10Priya SharmaWestProduct C�J85�=	!ORD13162023-02-07Rohit DasEastProduct A�u08�<	!%ORD13152023-07-30Priya SharmaEastProduct C�X6�;	!!ORD13142023-02-14Sneha IyerWestProduct C��7�:	!!ORD13132023-10-11Sneha IyerSouthProduct C�oT7�9	!!ORD13122023-04-13Sneha IyerNorthProduct B��6�8	!ORD13112023-03-22Rohit DasSouthProduct A�#(6�7	!!ORD13102023-12-16Ravi KumarEastProduct B�@t8�6	!%ORD13092023-03-11Priya SharmaWestProduct A�p7�5	!!ORD13082023-08-17Sneha IyerSouthProduct A�)6�4	!!ORD13072023-09-23Aman VermaEastProduct C
+�d7�3	!!ORD13062023-05-23Ravi KumarSouthProduct B��6�2	!!ORD13052023-10-21Sneha IyerEastProduct C�L6�1	!!ORD13042023-03-20Aman VermaWestProduct A�W�7�0	!!ORD13032023-05-01Sneha IyerNorthProduct C�FP8�/	!!ORD13022023-03-15Ravi KumarSouthProduct A��@6�.	!ORD13012023-12-10Rohit DasSouthProduct A
+�L,8�-	!!ORD13002023-06-30Aman VermaNorthProduct A��@7�,	!!ORD12992023-12-20Sneha IyerNorthProduct C�W�6�+	!!ORD12982023-06-17Sneha IyerWestProduct A
+�:�7�*	!!ORD12972023-04-03Aman VermaNorthProduct A�ix6�)	!!ORD12962023-05-17Ravi KumarWestProduct C�p6�(	!!ORD12952023-06-23Sneha IyerEastProduct C�.�6�'	!!ORD12942023-03-05Sneha IyerWestProduct B�]�6�&	!!ORD12932023-04-08Ravi KumarEastProduct B
+�:�7�%	!!ORD12922023-09-21Aman VermaNorthProduct C
+�e�6�$	!!ORD12912023-04-14Ravi KumarEastProduct B��7�#	!!ORD12902023-04-04Sneha IyerNorthProduct B�	�6�"	!!ORD12892023-10-07Sneha IyerWestProduct C�*�9�!	!%ORD12882023-12-03Priya SharmaNorthProduct B�p7� 	!!ORD12872023-01-09Aman VermaSouthProduct C�p6�	!!ORD12862023-08-29Aman VermaEastProduct C��7�	!!ORD12852023-12-07Ravi KumarNorthProduct B��8�	!%ORD12842023-01-01Priya SharmaWestProduct A�u07�	!%	ORD12832023-10-02Priya SharmaEastProduct B��6�	!!ORD12822023-11-15Ravi KumarWestProduct C�L8�	!%ORD12812023-06-04Priya SharmaWestProduct C��6�	!!ORD12802023-04-21Ravi KumarEastProduct A�'7�	!!ORD12792023-08-29Ravi KumarNorthProduct B�L7�	!!ORD12782023-03-12Sneha IyerSouthProduct C��5�	!!	ORD12772023-04-25Ravi KumarEastProduct A��7�	!!ORD12762023-09-15Sneha IyerNorthProduct B�.�7�	!!ORD12752023-08-19Sneha IyerNorthProduct B�p7�	!!ORD12742023-05-20Sneha IyerNorthProduct A�:�
+D���Q��j1
+�
+�
+�
+L
+��f-���F
+ 
+�
+�
+Z
+ 	�	�	p	7���P��j1���J��f-��~B
+��]$��y@��["��7�	!!ORD14092023-11-06Ravi KumarSouthProduct C�'6�	!!ORD14082023-10-02Aman VermaWestProduct C�
+�6�	!!ORD14072023-04-15Sneha IyerEastProduct A�|7�	!!ORD14062023-07-31Sneha IyerSouthProduct B�6�7�	!!ORD14052023-04-26Sneha IyerNorthProduct C
+�'5�	!ORD14042023-06-03Rohit DasWestProduct A
+�2�6�	!!ORD14032023-06-26Sneha IyerWestProduct A
+�L,6�	!!ORD14022023-02-01Sneha IyerWestProduct A�FP6�	!!ORD14012023-06-04Sneha IyerEastProduct B��5�	!ORD14002023-05-29Rohit DasEastProduct A�.�7�	!!ORD13992023-04-30Ravi KumarSouthProduct C�FP6�	!!ORD13982023-11-03Ravi KumarWestProduct B��6�	!ORD13972023-04-16Rohit DasNorthProduct B��6�
+	!ORD13962023-02-27Rohit DasNorthProduct A��8�	!%ORD13952023-05-07Priya SharmaEastProduct A�W�5�	!ORD13942023-06-02Rohit DasWestProduct A�u09�
+	!%ORD13932023-10-03Priya SharmaNorthProduct A
+�2�7�		!!ORD13922023-12-05Aman VermaNorthProduct A�FP7�	!!ORD13912023-07-15Sneha IyerNorthProduct C�u08�	!%ORD13902023-05-27Priya SharmaWestProduct B�6�6�	!!ORD13892023-12-25Ravi KumarWestProduct A��6�	!!ORD13882023-04-22Ravi KumarWestProduct B�%6�	!!ORD13872023-08-25Sneha IyerEastProduct A
+��7�	!!ORD13862023-08-21Sneha IyerNorthProduct C�'5�	!ORD13852023-10-26Rohit DasWestProduct A�@8�	!!ORD13842023-06-17Ravi KumarSouthProduct C���6�	!ORD13832023-10-08Rohit DasSouthProduct A�Bh7�	!!ORD13822023-08-17Ravi KumarNorthProduct A�c�6�~	!ORD13812023-12-07Rohit DasNorthProduct C�X6�}	!!ORD13802023-08-21Sneha IyerWestProduct C�u08�|	!%ORD13792023-11-11Priya SharmaWestProduct A�@6�{	!!ORD13782023-07-27Ravi KumarEastProduct B�c�6�z	!!ORD13772023-05-01Sneha IyerEastProduct A��6�y	!!ORD13762023-10-26Aman VermaEastProduct C�%6�x	!!ORD13752023-07-16Aman VermaEastProduct B�>�9�w	!%ORD13742023-03-13Priya SharmaNorthProduct B�]�7�v	!!ORD13732023-09-21Sneha IyerNorthProduct A�|5�u	!ORD13722023-12-12Rohit DasWestProduct B�X6�t	!!ORD13712023-05-12Aman VermaEastProduct C��8�s	!%ORD13702023-04-09Priya SharmaWestProduct C�p9�r	!%ORD13692023-11-25Priya SharmaWestProduct B���6�q	!!ORD13682023-10-18Aman VermaEastProduct B�'7�p	!!ORD13672023-09-11Ravi KumarNorthProduct B�#(9�o	!%ORD13662023-01-20Priya SharmaNorthProduct B�.�7�n	!!ORD13652023-06-14Ravi KumarSouthProduct C
+��7�m	!!ORD13642023-03-22Sneha IyerSouthProduct B�m`9�l	!%ORD13632023-06-19Priya SharmaNorthProduct C�@7�k	!!ORD13622023-09-29Ravi KumarNorthProduct B�@9�j	!%ORD13612023-02-25Priya SharmaNorthProduct C�N 5�i	!ORD13602023-04-14Rohit DasEastProduct A�ix6�h	!!ORD13592023-02-10Aman VermaWestProduct A�]�6�g	!!ORD13582023-06-26Ravi KumarEastProduct C�L6�f	!!ORD13572023-10-14Ravi KumarWestProduct B	�4�6�e	!!ORD13562023-12-27Aman VermaWestProduct B�6�8�d	!%ORD13552023-05-07Priya SharmaEastProduct B	�4�6�c	!!ORD13542023-09-30Aman VermaWestProduct A�@t8�b	!!ORD13532023-09-02Aman VermaSouthProduct B���5�a	!ORD13522023-02-01Rohit DasEastProduct C��5�`	!ORD13512023-12-20Rohit DasWestProduct C�6�7�_	!!ORD13502023-01-10Sneha IyerSouthProduct B�W�6�^	!ORD13492023-12-15Rohit DasNorthProduct A��9�]	!%ORD13482023-01-27Priya SharmaWestProduct A��p6�\	!!	ORD13472023-06-07Aman VermaSouthProduct C��6�[	!!ORD13462023-01-09Ravi KumarWestProduct C�FP6�Z	!ORD13452023-06-22Rohit DasEastProduct B���6�Y	!!ORD13442023-11-10Sneha IyerEastProduct C�*�9�X	!%ORD13432023-06-20Priya SharmaSouthProduct B�}7�W	!!ORD13422023-09-18Ravi KumarNorthProduct A
+�d
+D���Q��i.
+�
+�
+�
+G
+
+��\#��u;
+�
+�
+R
+	�	�	i	/���G��`(��zA��["��u;��U��p7���Q��7�^	!!ORD14772023-04-05Sneha IyerNorthProduct C�.�8�]	!%ORD14762023-10-14Priya SharmaWestProduct C�m`6�\	!ORD14752023-03-26Rohit DasSouthProduct B�@7�[	!!ORD14742023-12-30Aman VermaNorthProduct C��6�Z	!!ORD14732023-08-13Ravi KumarEastProduct A�W�7�Y	!!ORD14722023-04-16Aman VermaWestProduct A���6�X	!!ORD14712023-03-01Aman VermaEastProduct B�L6�W	!!ORD14702023-01-13Aman VermaWestProduct A�@6�V	!ORD14692023-07-11Rohit DasSouthProduct B
+�e�6�U	!ORD14682023-02-20Rohit DasSouthProduct B	�#(7�T	!!ORD14672023-11-27Sneha IyerNorthProduct A
+�L,6�S	!ORD14662023-12-07Rohit DasNorthProduct C�.�7�R	!!ORD14652023-01-19Ravi KumarSouthProduct C�p5�Q	!ORD14642023-11-03Rohit DasWestProduct C�}7�P	!!ORD14632023-12-04Sneha IyerNorthProduct B�'7�O	!!ORD14622023-12-11Aman VermaSouthProduct B�>�7�N	!!ORD14612023-08-25Aman VermaNorthProduct B�6�6�M	!ORD14602023-04-13Rohit DasNorthProduct C�J87�L	!!ORD14592023-07-12Aman VermaNorthProduct C	�FP7�K	!!ORD14582023-07-23Sneha IyerSouthProduct B�@t6�J	!!ORD14572023-06-14Sneha IyerEastProduct A�N 6�I	!ORD14562023-08-14Rohit DasSouthProduct B�U�5�H	!ORD14552023-01-04Rohit DasWestProduct B
+�L,7�G	!!ORD14542023-11-12Ravi KumarSouthProduct B�6�8�F	!%ORD14532023-02-09Priya SharmaWestProduct C�FP6�E	!!ORD14522023-03-27Sneha IyerEastProduct B�R7�D	!!ORD14512023-05-18Sneha IyerSouthProduct A
+�:�7�C	!!ORD14502023-10-14Sneha IyerSouthProduct A�@7�B	!!ORD14492023-01-07Sneha IyerNorthProduct C
+�N 5�A	!ORD14482023-07-01Rohit DasEastProduct B�#(8�@	!!ORD14472023-08-18Ravi KumarNorthProduct A���7�?	!!ORD14462023-05-19Ravi KumarSouthProduct B��6�>	!!ORD14452023-02-24Aman VermaWestProduct B��6�=	!!ORD14442023-03-20Sneha IyerEastProduct B
+�2�7�<	!!ORD14432023-11-13Ravi KumarNorthProduct B
+�'5�;	!ORD14422023-07-12Rohit DasWestProduct A�6�8�:	!%ORD14412023-05-20Priya SharmaEastProduct C�u08�9	!!ORD14402023-06-24Aman VermaNorthProduct C��@7�8	!!ORD14392023-06-27Sneha IyerSouthProduct A��9�7	!%ORD14382023-10-04Priya SharmaNorthProduct C�U�5�6	!ORD14372023-03-25Rohit DasWestProduct C�J87�5	!!ORD14362023-04-17Sneha IyerNorthProduct B�J88�4	!%ORD14352023-05-24Priya SharmaEastProduct A�#(7�3	!!ORD14342023-10-18Ravi KumarNorthProduct C�]�9�2	!%ORD14332023-02-18Priya SharmaSouthProduct C�!46�1	!!ORD14322023-03-29Sneha IyerEastProduct C�p7�0	!!ORD14312023-07-14Ravi KumarNorthProduct C
+�e�7�/	!!ORD14302023-04-26Ravi KumarNorthProduct B
+��6�.	!ORD14292023-07-11Rohit DasSouthProduct C
+�e�6�-	!!ORD14282023-09-27Aman VermaWestProduct A	�4�9�,	!%ORD14272023-02-24Priya SharmaSouthProduct C��6�+	!!ORD14262023-05-21Ravi KumarWestProduct A�ix8�*	!!ORD14252023-09-30Ravi KumarNorthProduct C���8�)	!!ORD14242023-11-23Sneha IyerNorthProduct A��@8�(	!!ORD14232023-04-22Aman VermaNorthProduct C���7�'	!!ORD14222023-07-31Ravi KumarSouthProduct A��7�&	!!ORD14212023-10-05Ravi KumarNorthProduct A��8�%	!%ORD14202023-03-28Priya SharmaWestProduct A�.�6�$	!!ORD14192023-10-09Sneha IyerWestProduct B�@t6�#	!ORD14182023-06-18Rohit DasSouthProduct B�>�8�"	!!ORD14172023-10-11Aman VermaSouthProduct A��p9�!	!%ORD14162023-01-24Priya SharmaNorthProduct B�J86� 	!!ORD14152023-08-29Aman VermaEastProduct B�*�7�	!!ORD14142023-05-14Sneha IyerNorthProduct C�]�6�	!!ORD14132023-06-14Sneha IyerEastProduct B
+�N 7�	!!ORD14122023-09-03Sneha IyerSouthProduct C�@8�	!%	ORD14112023-06-05Priya SharmaNorthProduct C��7�	!!ORD14102023-12-10Sneha IyerSouthProduct B�FP
+
+��U��m5
+�
+�
+�
+O
+��g.���E
+5�t	!ORD14992023-04-16Rohit DasEastProduct C��9�s	!%ORD14982023-10-29Priya SharmaSouthProduct A�]�7�r	!!ORD14972023-06-28Ravi KumarSouthProduct A�p6�q	!!ORD14962023-12-01Ravi KumarWestProduct B�.�7�p	!!ORD14952023-01-22Sneha IyerNorthProduct C�:�6�o	!!ORD14942023-09-19Aman VermaEastProduct C��6�n	!!ORD14932023-10-03Sneha IyerWestProduct C
+�'6�m	!!ORD14922023-01-16Ravi KumarEastProduct A�.�9�l	!%ORD14912023-12-30Priya SharmaNorthProduct C�u07�k	!!ORD14902023-07-16Sneha IyerWestProduct B���7�j	!!ORD14892023-01-28Sneha IyerSouthProduct A�p6�i	!!ORD14882023-05-28Aman VermaWestProduct C��6�h	!ORD14872023-11-22Rohit DasSouthProduct B�FP7�g	!!ORD14862023-11-02Sneha IyerSouthProduct B�'5�f	!ORD14852023-04-04Rohit DasWestProduct B�.�8�e	!%ORD14842023-03-10Priya SharmaEastProduct A�|7�d	!!ORD14832023-06-30Aman VermaNorthProduct C�:�7�c	!ORD14822023-07-18Rohit DasNorthProduct B��@6�b	!!ORD14812023-08-23Sneha IyerEastProduct C�p6�a	!!ORD14802023-02-22Aman VermaEastProduct A�FP7�`	!!ORD14792023-01-03Aman VermaNorthProduct C�X5�_	!ORD14782023-11-11Rohit DasWestProduct B�6�
